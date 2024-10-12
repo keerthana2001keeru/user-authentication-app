@@ -1,6 +1,6 @@
 # MERN Stack User Authentication Web Application
 
-This project is a simple MERN stack application that demonstrates how to implement user authentication (registration, login) using **MongoDB**, **Express**, **React**, and **Node.js**.
+This project is a simple MERN stack application that demonstrates how to implement user authentication (registration and login) using **MongoDB**, **Express**, **React**, and **Node.js**.
 
 ## Features
 
